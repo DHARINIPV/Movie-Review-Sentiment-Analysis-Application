@@ -1,0 +1,7 @@
+tensorflow==2.12.0
+gradio==4.17.0
+pandas
+numpy
+scikit-learn
+pickle5
+keras
